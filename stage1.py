@@ -1,6 +1,6 @@
 
 #Ben Hawkins
-#Batlleship, High School Interns, Stage 1.0
+#Batlleship, High School Interns, Stage 2.0
 
 import random
 
@@ -75,3 +75,5 @@ for turn in range(4):
             print("\nYou missed my battleship!")
             board[guess_row][guess_col] = "M"
  
+ 
+    print("just for show purposes")
